@@ -1,3 +1,2 @@
-This is a Git Workshop Practice!
-
-hi. there. 
+This is a Git Workshop Practice! 
+git checkout test, add another branch
